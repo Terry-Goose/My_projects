@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\кей\documents\visual studio 2015\projects\extends\extends\main.cpp(6): warning C4101: 'a': unreferenced local variable
+  Extends.vcxproj -> c:\users\кей\documents\visual studio 2015\Projects\Extends\Debug\Extends.exe
+  Extends.vcxproj -> c:\users\кей\documents\visual studio 2015\Projects\Extends\Debug\Extends.pdb (Full PDB)
