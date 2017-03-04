@@ -1,0 +1,9 @@
+c:\users\кей\documents\visual studio 2015\Projects\Read_and_Plot\Read_and_Plot\bin\Debug\Read_and_Plot.exe.config
+c:\users\кей\documents\visual studio 2015\Projects\Read_and_Plot\Read_and_Plot\bin\Debug\Read_and_Plot.exe
+c:\users\кей\documents\visual studio 2015\Projects\Read_and_Plot\Read_and_Plot\bin\Debug\Read_and_Plot.pdb
+c:\users\кей\documents\visual studio 2015\Projects\Read_and_Plot\Read_and_Plot\obj\Debug\Read_and_Plot.csprojResolveAssemblyReference.cache
+c:\users\кей\documents\visual studio 2015\Projects\Read_and_Plot\Read_and_Plot\obj\Debug\Read_and_Plot.Form1.resources
+c:\users\кей\documents\visual studio 2015\Projects\Read_and_Plot\Read_and_Plot\obj\Debug\Read_and_Plot.Properties.Resources.resources
+c:\users\кей\documents\visual studio 2015\Projects\Read_and_Plot\Read_and_Plot\obj\Debug\Read_and_Plot.csproj.GenerateResource.Cache
+c:\users\кей\documents\visual studio 2015\Projects\Read_and_Plot\Read_and_Plot\obj\Debug\Read_and_Plot.exe
+c:\users\кей\documents\visual studio 2015\Projects\Read_and_Plot\Read_and_Plot\obj\Debug\Read_and_Plot.pdb
