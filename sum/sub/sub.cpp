@@ -1,0 +1,11 @@
+#include "sub.h"
+double sub(double a, double b)
+{
+	return (a - b);
+}
+
+char *getName()
+{
+	char *name = "Sub";
+	return name;
+}
